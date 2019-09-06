@@ -1,4 +1,32 @@
 ###################
+FITUR LEVEL KONSUMEN :
+1. Halaman Statis untuk profile perusahaan dan lainnya.
+2. Halaman video tutorial pemesanan, dan pembayaran
+3. Halaman Gallery Foto Produk Perusahaan
+4. Halaman Testimoni konsumen
+5. Manage / edit profile konsumen
+6. Keranjang Belanja
+7. Konfirmasi pembayaran
+8. List Data pelapak terdekat (Bisa dipilih oleh konsumen)
+9. Lihat Profile, history penjualan, dan no rekening Pelapak
+10. History Pemesanan Konsumen dari Pelapak
+11. Chat langung dengan Pelapak
+12. History Pemesanan Konsumen dari Toko/Reseller
+
+FITUR LEVEL PELAPAK/RESELLER :
+1. Dapat memantau Stok Produk
+2. Transaksi Pembelian / Penambahan Stok
+3. Transaksi Penjualan ke Konsumen
+4. Cek Pembayaran Konsumen
+5. Kelola No Rekening Pelapak
+6. Bisa menambahkan catatan ke konsumen saat Order
+7. Report Keuangan (Total Belanja, Penjualan, Modal Penjualan)
+8. Report Bonus Referral dan Reward
+8. Edit Data Profile dan Alamat / Domisili Pelapak
+
+FITUR LEVEL ADMIN :
+Khusus Untuk User dengan level admin memiliki fitur sama persis dengan Swarakalibata Ci terbaru ditambah memiliki hak akses penuh untuk semua fitur tambahan Marketplace Multi Seller and Multi buyer + Reseller System yang ada pada aplikasi ini, mulai dari mengelola penjualan, pembelian, konsumen,, data toko/reseller/pelapak beserta semua data terkait dengan fitur yang kita detailkan di atas.
+###################
 What is CodeIgniter
 ###################
 
