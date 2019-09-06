@@ -1,0 +1,59 @@
+
+@media only screen and (max-width: 1200px) {
+
+	.active.boxed {
+		max-width: 100%;
+	}
+
+	.boxed {
+		min-width: 320px!important;
+	}
+
+	.main-sidebar {
+		display: none!important;
+	}
+
+	.wrapper {
+		width: 900px;
+	}
+
+	.ad-link.top {
+		left: 2%;
+	}
+
+	.header .header-menu {
+		width: 37%;
+	}
+
+	#writecomment p label {
+		position: relative;
+		left: auto;
+		right: auto;
+		top: auto;
+		text-align: left;
+		line-height: 130%;
+	}
+
+	.photo-gallery-grid {
+		width: 105%;
+	}
+
+	.photo-gallery-grid .photo-gallery-block {
+		width: 23%;
+	}
+
+	.banner img {
+		max-width: 100%;
+	}
+
+	.block-content.archive > .block:nth-child(5n),
+	.block-content.archive > .block {
+		width: 23.46%;
+		margin-right: 2%;
+	}
+
+	.block-content.archive > .block:nth-child(4n) {
+		margin-right: 0px;
+	}
+
+}

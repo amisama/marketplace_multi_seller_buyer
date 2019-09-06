@@ -1,0 +1,25 @@
+
+/* Color Scheme */
+.header,
+.breaking-news .the-title,
+.widget > h3,
+.button,
+a.small-button,
+.marker,
+.hover-effect,
+.block-title,
+#wp-calendar td#today,
+.small-button,
+#writecomment p input[type=submit] {
+	background-color: #d71149;
+}
+.list-title,
+a:hover,
+a.mobile-menu,
+.widget .meta a {
+	color: #d71149;
+}
+.list-title {
+	border-bottom: 2px solid #d71149;
+}
+

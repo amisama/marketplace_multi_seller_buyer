@@ -1,0 +1,28 @@
+table#tablestd{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #D8D8D8;
+	border-collapse: collapse;
+	margin: 10px 0px;
+}
+table#tablestd td{
+	padding: 0.5em; 	color: #000;
+	vertical-align: top;
+	border-width: 0px;
+	padding: 4px;
+	border: 1px solid #000;
+	
+}
+
+table#tablemodul1{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000;
+	border-collapse: collapse;
+	margin: 10px 0px;
+}
+table#tablemodul1 td{
+	padding:1px 6px 2px 6px;
+	border: 1px solid #000; 
+	
+}
